@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="Cp1254" standalone="no"?>
+<jardesc>
+    <jar path="UnderGroundCore/jarx/UnderGroundCore.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/UnderGroundCore/jarBuild.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=UnderGroundCore/src&lt;AnaDosya{Oyun.java[Oyun" manifestLocation="/UnderGroundCore/manifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/UnderGroundCore/manifest"/>
+        <folder path="/UnderGroundCore/Libs"/>
+        <file path="/UnderGroundCore/.project"/>
+        <file path="/UnderGroundCore/jarBuild.jardesc"/>
+        <javaElement handleIdentifier="=UnderGroundCore/src"/>
+        <javaElement handleIdentifier="=UnderGroundCore/Resources"/>
+        <file path="/UnderGroundCore/.classpath"/>
+    </selectedElements>
+</jardesc>
