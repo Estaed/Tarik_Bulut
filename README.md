@@ -6,4 +6,4 @@ Algoritma ve Programlama-II dersinin projesidir. Bu proje 2D Pixel bir oyundur.
 Ayrıca oyuna müzik eklemiş bulunmaktayım ancak jar dosyası haline getirdiğimde müzikler bir türlü çalışmadığından eclipse programı 
 ile çalışmaktadır
 
-
+Oyundaki harita şemasını tamamen karakter, arayüz, düşmanlar gibi görsellikleri kendime göre uyarlayarak ForeignGuyMike kanalından aldım.
