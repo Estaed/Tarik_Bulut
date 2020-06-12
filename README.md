@@ -10,4 +10,4 @@ Kısacası bu proje Algoritma ve Programlama-II final projesidir.
 Ayrıca oyuna müzik eklemiş bulunmaktayım ancak jar dosyası haline getirdiğimde müzikler bir türlü çalışmadığından eclipse programı 
 ile çalışmaktadır
 
-Oyundaki harita şemasını tamamen ; karakter, arayüz, düşmanlar gibi görsellikleri kendime göre uyarlayarak ForeignGuyMike kanalından aldım.
+Oyundaki harita şemasını tamamen ; karakter, arayüz, düşmanlar gibi görsellikleri kendime göre uyarlayarak internetten aldım.
